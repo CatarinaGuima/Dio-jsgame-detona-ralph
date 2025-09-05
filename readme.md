@@ -16,12 +16,20 @@ Bem-vindo ao **JSGame Detona Ralph**! Neste repositório, você encontrará um j
 
 - **Sistema de Pontuação**: Acompanhe sua pontuação à medida que progride no jogo e desafie seus amigos a superá-la, clique no quadrado que o Ralph se encontre
 
+### Demo
+
+<img width="1913" height="907" alt="image" src="https://github.com/user-attachments/assets/cdb867a7-697b-4c06-82f7-8a8fb75bebc0" />
+
 ### Como Jogar
 
 1. Clone este repositório para sua máquina local.
 2. Abra o arquivo `index.html` em seu navegador web.
 3. Use as setas direcionais para mover o personagem e a barra de espaço para interagir.
 4. Divirta-se explorando e coletando moedas, mas fique atento aos inimigos!
+
+ou
+
+[acesse aqui](https://catarinaguima.github.io/Dio-jsgame-detona-ralph/)
 
 ### Contribuição
 
